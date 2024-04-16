@@ -11,7 +11,7 @@
 
 ### Description 
 
-**Foodhunt makes dining out simple and fun for couples. With just a swipe, partners can easily agree on a restaurant. Swipe "yes" or "no" on restaurant options until a mutual favorite is found, this helps the decision-making process and ensuring a delightful dining experience.**
+**CoupleSync makes dining out simple and fun for couples. With just a swipe, partners can easily agree on a restaurant. Swipe "yes" or "no" on restaurant options until a mutual favorite is found, this helps the decision-making process and ensuring a delightful dining experience.**
 
 ### App Evaluation
 
@@ -19,9 +19,9 @@
 
 - **Category:** Lifestyle
 - **Mobile:** Mobile is essential, the app uses location to suggest nearby restaurants and utilizies a swiping mechanism to choose restaurants. 
-- **Story:** Foodhunt brings couples closer together through their shared love of food. By simplifying the decision making process when choosing restaurants, it reduces stress and allows couples to enjoy their meals and each other’s company without the usual indecisiveness.
+- **Story:** CoupleSync brings couples closer together through their shared love of food. By simplifying the decision making process when choosing restaurants, it reduces stress and allows couples to enjoy their meals and each other’s company without the usual indecisiveness.
 - **Market:** Ideal for areas with a variety of dining options and tech-savvy adults.
-- **Habit:** Couples use Foodhunt regularly as part of their dining routine, whether planning special date nights or deciding on quick meal options. The app becomes a part of their lifestyle, helping them make quick decisions and discover new places together.
+- **Habit:** Couples use CoupleSync regularly as part of their dining routine, whether planning special date nights or deciding on quick meal options. The app becomes a part of their lifestyle, helping them make quick decisions and discover new places together.
 - **Scope:** V1 would have swipe matching features for restaurant selection. V2 will introduce a distance filter to find restaurants. V3 would incorporate a time filter that allows users to select a dining time, filtering restaurant recommendations to only include those that are open during the chosen hours. V4 would allow users to select the number of people, adding support for double dates or group meals. 
 
 ## Product Spec
