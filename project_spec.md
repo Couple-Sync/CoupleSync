@@ -87,7 +87,7 @@ For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2024** **Austin Chan, Gopal Pokharel, and Harlan Phillips**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
