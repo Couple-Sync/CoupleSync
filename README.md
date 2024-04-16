@@ -3,9 +3,9 @@
 # AND101 Milestone 1 - **CoupleSync**
 
 Submitted by:
-- **Team Member 1 Name Here**
-- **Team Member 2 Name Here**
-- **etc**
+- **Austin Chan**
+- **Gopal Pokharel**
+- **Harlan Phillips**
 
 Time spent: **X** hours spent in total
 
