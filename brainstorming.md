@@ -43,7 +43,7 @@ Mobile App Dev - App Brainstorming
 6. F1intern
     - An internship platform focused on opportunities specifically tailored for international students, facilitating access to valuable professional experiences abroad.
 
-7. Foodhunt
+7. CoupleSync
     - A dating app that matches users based on their food preferences and culinary interests, fostering connections over shared tastes and dining experiences.
 
 8. BikeC
@@ -54,12 +54,12 @@ Mobile App Dev - App Brainstorming
 
 
 ## Top 3 New App Ideas
-1. Foodhunt
+1. CoupleSync
 2. Caloriecook
 3. F1intern
 
 ## New App Ideas - Evaluate and Categorize
-1. Foodhunt
+1. CoupleSync
    - **Description**: A dating app that matches users based on their food preferences and culinary interests, fostering connections over shared tastes and dining experiences.
    - **Category:** Social Networking
    - **Mobile:** Mobile is essential for the location sharing, interacting and rating the restaurants.
@@ -90,7 +90,7 @@ Mobile App Dev - App Brainstorming
 
 # Final App Decision
  
- - Foodhunt
+ - CoupleSync
 
 
 
