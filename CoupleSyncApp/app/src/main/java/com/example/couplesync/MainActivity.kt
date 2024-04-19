@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun getRandomRestaurant(imageView: ImageView, nameTextView: TextView) {
         val client = AsyncHttpClient()
-        val apiKey = "H1XoYkdmEbtFuydLRM9D8A0cubbOJAqKL2K3KoGxIzgTKqptu_DYyefGJO_OGEh5Hso3SQZMnoxlSti-nP7zuOEuCK5DCLoMVtK-jV6VXiPj51euyN4knvbC9XIhZnYx"
+        val apiKey = "Insert Key"
         val url = "https://api.yelp.com/v3/businesses/search?location=NewYork&limit=50"
 
         val headers = RequestHeaders()
