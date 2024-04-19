@@ -40,17 +40,12 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-<<<<<<< HEAD
+
         private fun getRandomRestaurant(imageView: ImageView, nameTextView: TextView) {
             val client = AsyncHttpClient()
-            val apiKey = "H1XoYkdmEbtFuydLRM9D8A0cubbOJAqKL2K3KoGxIzgTKqptu_DYyefGJO_OGEh5Hso3SQZMnoxlSti-nP7zuOEuCK5DCLoMVtK-jV6VXiPj51euyN4knvbC9XIhZnYx"
+            val apiKey = "Insert Key"
             val url = "https://api.yelp.com/v3/businesses/search?location=NewYork&limit=50"
-=======
-    private fun getRandomRestaurant(imageView: ImageView, nameTextView: TextView) {
-        val client = AsyncHttpClient()
-        val apiKey = "Insert Key"
-        val url = "https://api.yelp.com/v3/businesses/search?location=NewYork&limit=50"
->>>>>>> fbd27ea07f7f80d05613f1899ae1de265389fb42
+
 
             val headers = RequestHeaders()
             headers.set("Authorization", "Bearer $apiKey")
@@ -64,7 +59,7 @@ class MainActivity : AppCompatActivity() {
                     val name = randomRestaurant.getString("name")
                     val imageUrl = randomRestaurant.getString("image_url")
 
-<<<<<<< HEAD
+
                     Glide.with(this@MainActivity)
                         .load(imageUrl)
                         .apply(RequestOptions().transform(RoundedCorners(20)))
@@ -77,14 +72,3 @@ class MainActivity : AppCompatActivity() {
             })
         }
 }
-=======
-                Glide.with(this@MainActivity).load(imageUrl).into(imageView)
-                nameTextView.text = name
-            }
-            override fun onFailure(statusCode: Int, headers: Headers?, errorResponse: String, throwable: Throwable?) {
-                Log.d("Yelp Error", "API Request Failed: $errorResponse")
-            }
-        })
-    }
-}
->>>>>>> fbd27ea07f7f80d05613f1899ae1de265389fb42
