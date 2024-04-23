@@ -83,7 +83,9 @@ Additional Feature
 Here's a place for any other notes on the app, it's creation 
 process, or what you learned this unit!  
 
-For Milestone 2, include **2+ Videos/GIFs** of the build process here!
+For Milestone 2, include **2+ Videos/GIFs!** of the build process here
+![And 101 CoupleSyncV1](https://github.com/Couple-Sync/CoupleSync/assets/157552108/ff272d9d-24a9-44ae-b67d-61dc740660a2)
+![Kapture_2024-04-23_at_02 25 13](https://github.com/Couple-Sync/CoupleSync/assets/157552108/e24fb16a-b855-4476-b044-0d380a29b6ec)
 
 ## License
 
