@@ -11,7 +11,7 @@ Time spent: **12** hours spent in total
 
 ## Summary
 
-This document provides a summary of our project building process for our app, **App Name Here**
+This document provides a summary of our project building process for our app, **An app that makes dining out simple and fun for couples by allowing them to swipe on restaurant options and find a mutual favorite.*
 
 ## Milestone Requirements
 
