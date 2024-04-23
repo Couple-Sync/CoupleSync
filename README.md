@@ -44,6 +44,7 @@ Here's a video that demos all of the app's implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VMn99ekT9vU/0.jpg)](https://www.youtube.com/watch?v=VMn99ekT9vU)
+
 Seperate Link to the video: https://www.youtube.com/watch?v=VMn99ekT9vU
 
 VIDEO created with **OBS Studio**
