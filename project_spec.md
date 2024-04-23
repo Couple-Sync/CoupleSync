@@ -33,10 +33,10 @@ Required Features:
 - Restaurant Swiping: Enable users to swipe left or right on restaurants 
 - Match System: Couples can match with restaurants that both users have swiped right on.
 - Distance Filter: Users can set filters based on how far they are willing to travel for a meal.
-- Time Filter: Allows users to filter restaurants based on the time they plan to eat, showing only those that are open during the desired dining hours.
 
 Stretch Features:
 
+- Time Filter: Allows users to filter restaurants based on the time they plan to eat, showing only those that are open during the desired dining hours.
 - Description, Images, and Reviews: Allows users to scroll through high-quality images, detailed descriptions, and user-generated reviews of each dining spot 
 - Rating and Rating: Users can rate and review the restaurants they visit
 
